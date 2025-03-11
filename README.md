@@ -6,6 +6,7 @@
 🔹 Passionate about **building AI-powered platforms & accelerating digital transformation**  
 
 **Key Skills:**
+
 🔹 **[Cloud Computing]** –Azure Cloud, Azure AI, Generative AI, AWS, Amazon Bedrock.  
 🔹 **[Generative AI Frameworks]** –Lang Graph RAG, Lang Chain, LLAMA Index, AutoGen.  
 🔹 **[Software Development]** -Microservices, Asp.net Core, C#, Python, Node.js.  
@@ -18,6 +19,7 @@
 🔹 **[Leadership]** –Managed teams of 50+ engineers and architects across diverse projects.
 
 📌 **Featured Projects:**
+
 🔹 **[Ryze AI Platform]** – Multi-modal Generative AI platform for enterprise solutions.  
 🔹 **[FulcrumOne Low-Code AI Platform]** – Empowering businesses with AI-powered automation.  
 🔹 **[DevAssist AI (VS Code Extension)]** – AI-driven code suggestions & SonarQube fixes.  
