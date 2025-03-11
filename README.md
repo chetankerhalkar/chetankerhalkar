@@ -4,6 +4,7 @@
 🔹 17+ years of experience across Telecom, Insurance, Finance & Digital Commerce  
 🔹 Expertise in **Azure AI, Generative AI (GPT-4o, Phi-3, LLAMA), Microservices, .NET, ReactJS, Node.js**  
 🔹 Passionate about **building AI-powered platforms & accelerating digital transformation**  
+
 **Key Skills:**
 🔹 **[Cloud Computing]** –Azure Cloud, Azure AI, Generative AI, AWS, Amazon Bedrock.  
 🔹 **[Generative AI Frameworks]** –Lang Graph RAG, Lang Chain, LLAMA Index, AutoGen.  
